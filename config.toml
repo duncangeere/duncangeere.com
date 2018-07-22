@@ -1,0 +1,55 @@
+baseurl = "http://www.duncangeere.com"
+title = "Duncan Geere"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-59049444-1"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "red"
+  description = "Writing - Editing - Data Visualisation"
+  copyright = "&copy; 2018 Duncan Geere"
+  sidebarAbout = [
+    "I am a writer, editor and data journalist with 10 years of experience. I cover the intersection of science, technology and culture, with a particular interest in environmental issues.",
+    "I'm currently working as an editor at Storythings, and I've contributed freelance work to publications like Wired, BBC Focus, Technology Review, Popular Science, NME, PC Gamer, Techradar and Men's Health.",
+    "Originally from the UK, currently based in Sweden."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "radio.edit@gmail.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Recent Work"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  facebook      = "http://www.facebook.com/duncangeere"
+  email         = "radio.edit@gmail.com"
+  twitter       = "http://www.twitter.com/duncangeere"
+  linkedin      = "http://www.linkedin.com/in/duncangeere"
+  instagram     = "http://www.instagram.com/notrealistic"
+  github        = "http://www.github.com/duncangeere"
