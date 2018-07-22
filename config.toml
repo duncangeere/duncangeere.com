@@ -30,7 +30,7 @@ googleAnalytics = "UA-59049444-1"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "radio.edit@gmail.com"
+  email = "duncangeere@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -48,7 +48,7 @@ googleAnalytics = "UA-59049444-1"
 
   [params.social]
   facebook      = "http://www.facebook.com/duncangeere"
-  email         = "radio.edit@gmail.com"
+  email         = "duncangeere@gmail.com"
   twitter       = "http://www.twitter.com/duncangeere"
   linkedin      = "http://www.linkedin.com/in/duncangeere"
   instagram     = "http://www.instagram.com/notrealistic"
