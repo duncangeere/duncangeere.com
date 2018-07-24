@@ -14,7 +14,7 @@ googleAnalytics = "UA-59049444-1"
   description = "Writing - Editing - Data Visualisation"
   copyright = "&copy; 2018 Duncan Geere"
   sidebarAbout = [
-    "I am a writer, editor and data journalist with 10 years of experience. I cover the intersection of science, technology and culture, with a particular interest in environmental issues.",
+    "I am a writer, editor and data journalist with more than 10 years of experience. I cover the intersection of science, technology and culture, with a particular interest in environmental issues.",
     "I'm currently working as an editor at Storythings, and I've contributed freelance work to publications like Wired, BBC Focus, Technology Review, Popular Science, NME, PC Gamer, Techradar and Men's Health.",
     "Originally from the UK, currently based in Sweden."
   ]
