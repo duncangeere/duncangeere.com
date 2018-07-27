@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/dieselgate.jpg"
+image = "/img/portfolio/dieselgate.jpg"
 date = "2018-24-07T010:40:22+02:00"
 title = "Cleaning Up After Dieselgate"
 showonlyimage = false

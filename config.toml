@@ -1,4 +1,4 @@
-baseurl = "http://www.duncangeere.com"
+baseurl = "https://www.duncangeere.com"
 title = "Duncan Geere"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

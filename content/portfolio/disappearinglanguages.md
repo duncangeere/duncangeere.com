@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/disappearinglanguages.jpg"
+image = "/img/portfolio/disappearinglanguages.jpg"
 date = "2018-24-07T010:40:22+02:00"
 title = "Disappearing Languages"
 showonlyimage = false

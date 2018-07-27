@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/nuclear.jpg"
+image = "/img/portfolio/nuclear.jpg"
 date = "2018-24-07T010:40:22+02:00"
 title = "Where Next for Nuclear Energy?"
 showonlyimage = false

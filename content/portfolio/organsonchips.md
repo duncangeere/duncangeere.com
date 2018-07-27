@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/organsonchips.jpg"
+image = "/img/portfolio/organsonchips.jpg"
 showonlyimage = false
 date = "2018-24-07T010:30:22+02:00"
 title = "Make Your Own Organ-On-a-Chip"

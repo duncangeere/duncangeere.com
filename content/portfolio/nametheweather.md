@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/nametheweather.png"
+image = "/img/portfolio/nametheweather.png"
 date = "2018-24-07T010:40:22+02:00"
 title = "Why We Name The Weather"
 showonlyimage = false

@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/drrobot.jpg"
+image = "/img/portfolio/drrobot.jpg"
 showonlyimage = false
 draft = false
 date = "2018-24-07T010:35:22+02:00"

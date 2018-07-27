@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/botw.jpg"
+image = "/img/portfolio/botw.jpg"
 date = "2018-24-07T010:40:22+02:00"
 title = "Block of the Week"
 showonlyimage = false
