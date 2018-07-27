@@ -35,16 +35,16 @@ googleAnalytics = "UA-59049444-1"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Recent Work"
-  url = "portfolio/"
+  url = "/portfolio/"
   home = true
 
   [[params.navlinks]]
   name = "About"
-  url = "about/"
+  url = "/about/"
 
   [[params.navlinks]]
   name = "Get in touch"
-  url = "contact/"
+  url = "/contact/"
 
   [params.social]
   facebook      = "http://www.facebook.com/duncangeere"
