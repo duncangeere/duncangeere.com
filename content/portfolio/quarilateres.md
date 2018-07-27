@@ -7,7 +7,7 @@ draft = false
 weight = 0
 +++
 
-Aniumated algorithmic art on Observablehq.com.
+Animated algorithmic art on Observablehq.com.
 
 <!--more-->
 
