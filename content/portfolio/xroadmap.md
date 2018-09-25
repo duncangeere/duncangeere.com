@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "/img/portfolio/xroadmap.jpg"
-date = "2018-25-09T010:40:22+02:00"
+date = "2018-09-24T010:40:22+02:00"
 title = "Exponential Climate Action Roadmap"
 showonlyimage = false
 weight = 0
