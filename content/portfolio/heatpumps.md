@@ -1,7 +1,7 @@
 +++
 image = "/img/portfolio/heatpumps.jpg"
 showonlyimage = false
-date = "2018-24-07T010:24:22+02:00"
+date = "2018-07-24"
 title = "Lost Rivers: Heat Pumps"
 draft = false
 weight = 0

@@ -1,5 +1,5 @@
 +++
-date = "2018-24-07T010:25:22+02:00"
+date = "2018-07-24"
 title = "Neglected Tropical Diseases"
 draft = false
 image = "/img/portfolio/ntds.jpg"

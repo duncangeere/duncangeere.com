@@ -2,7 +2,7 @@
 draft = false
 image = "/img/portfolio/organsonchips.jpg"
 showonlyimage = false
-date = "2018-24-07T010:30:22+02:00"
+date = "2018-07-24"
 title = "Make Your Own Organ-On-a-Chip"
 weight = 0
 +++

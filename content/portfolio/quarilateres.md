@@ -1,7 +1,7 @@
 +++
 image = "/img/portfolio/quadrilateres.jpg"
 showonlyimage = false
-date = "2018-24-07T011:30:22+02:00"
+date = "2018-07-24"
 title = "Structure de Quadrilatéres"
 draft = false
 weight = 0
