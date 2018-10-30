@@ -13,7 +13,7 @@ A series for How We Get To Next about why the world's air pollution crisis is no
 
 ![](/img/portfolio/noxprob.jpeg)
 
-Air pollution is the world's biggest cause of death, killing about eight million people every year. In October and November 2018, I put together a three-part series looking at the reasons why the situation isn't improving.
+Air pollution is the world's biggest cause of death, killing about eight million people every year. In October and November 2018, I put together a three-part series called [A Noxious Problem](https://howwegettonext.com/a-noxious-problem-air-pollution-16f55c4fe3d2), looking at the reasons why the situation isn't improving.
 
 To do so, I partnered with a team of excellent writers (Martha Pskowski, Corin Faife and Gayathri Vaidyanathan), as well as data artist Federica Fragapane. My contributions, as well as helming the project, were production, editing and supplementary data visualisation.
 
