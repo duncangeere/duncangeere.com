@@ -19,6 +19,6 @@ Over five episodes, we covered every angle of the story, from the outbreak in Ho
 
 I also commissioned and produced a reading list, a pair of explainer articles, a Q&A, and - my favourite part of the series - a [comic explaining how we're just five mutations from a major pandemic](https://howwegettonext.com/airborne-were-five-mutations-from-a-major-pandemic-2c50033f80f).
 
-
+In November 2018, the series was [republished in Spanish](https://elpais.com/elpais/2018/10/09/ciencia/1539082371_039571.html) by the newspaper El Pais.
 
 Image: [Darren Garrett](https://howwegettonext.com/foreshadowing-how-avian-flu-shaped-the-great-war-ff3e1a424672) // [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
