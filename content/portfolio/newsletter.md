@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "/img/portfolio/newsletter.png"
 date = "2018-07-24"
-title = "Duncan's Newsletter"
+title = "Duncan's Newsletter (on hiatus)"
 weight = 1
 +++
 
