@@ -1,7 +1,7 @@
 +++
 image = "/img/portfolio/00sindiedatabase.jpg"
 showonlyimage = false
-date = "2019-03-19"
+date = "2019-05-16"
 title = "The 00s Indie Band Database"
 draft = false
 weight = 0
