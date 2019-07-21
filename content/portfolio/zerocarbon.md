@@ -2,7 +2,7 @@
 image = "/img/portfolio/zerocarbon.svg"
 showonlyimage = false
 date = "2019-04-15"
-title = "Essential Dataviz Books"
+title = "How Do We Get To Zero Greenhouse Gas Emissions?"
 draft = false
 weight = 0
 +++
