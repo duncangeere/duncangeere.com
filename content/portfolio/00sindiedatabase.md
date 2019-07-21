@@ -13,6 +13,6 @@ Cataloguing the amazing music of the mid-2000s.
 
 ![](/img/portfolio/00sindiedatabase.jpg)
 
-I'm the creator and maintainer of the [00s Indie Band Database](https://www.duncangeere.com/00sindiebanddatabase/), the most comprehensive collection of data on mid-2000s indie bands on the web. You can access the database at the above link.
+I'm the creator and maintainer of the [00s Indie Band Database](https://airtable.com/universe/exptwn5Gmue6KskZw/the-2000s-indie-band-database), the most comprehensive collection of data on mid-2000s indie bands on the web. You can access the database at the above link.
 
 I'm working on a few visualisations of the data, but if you create and publish something based on the database then please [email and let me know about it](mailto:radio.edit@gmail.com).
