@@ -7,8 +7,6 @@ draft = false
 weight = 0
 +++
 
-Editing and moderating
-
 <!--more-->
 
 ![](/img/portfolio/datavizsociety.png)
