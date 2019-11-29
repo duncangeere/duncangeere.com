@@ -9,7 +9,7 @@ I'm a data-driven journalist, editor and designer with more than 10 years of exp
 
 I'm currently working as a senior creative producer at Information is Beautiful, and my freelance clients have included  Wired, BBC Wildlife, Nesta, Technology Review, FutureEarth, Popular Science, NME, PC Gamer, Techradar and Men's Health.
 
-All my business operations are 100% carbon-negative. I reduce my emissions annually, and the rest are covered by [Gold Standard](https://www.goldstandard.org/) offsets.
+All my business operations are 100% carbon-negative. I reduce my emissions annually, and offset the remaining sum with [Gold Standard](https://www.goldstandard.org/) offsets.
 
 Originally from the UK, now based in Sweden.
 
