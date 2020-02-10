@@ -7,7 +7,7 @@ title = "About me"
 
 I'm a data-driven journalist, editor and designer with more than 10 years of experience. I cover the intersection of science, technology and culture, with a particular interest in environmental issues.
 
-I'm currently working as a senior creative producer at Information is Beautiful, and my freelance clients have included  Wired, BBC Wildlife, Nesta, Technology Review, FutureEarth, Popular Science, NME, PC Gamer, Techradar and Men's Health.
+I recently completed a stint as a senior editor & creative producer at Information is Beautiful, and I've done freelance work for companies like SAP, Storythings, FutureEarth, Drawdown, and publications like Wired, the Guardian, BBC Wildlife, BBC Science Focus, Technology Review, Popular Science, and Techradar.
 
 All my business operations are 100% carbon-negative. I reduce my emissions annually, and offset the remaining sum with [Gold Standard](https://www.goldstandard.org/) offsets.
 
