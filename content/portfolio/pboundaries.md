@@ -1,7 +1,7 @@
 +++
 image = "/img/portfolio/pboundaries.png"
 showonlyimage = false
-date = "2019-10-06"
+date = "2020-04-20"
 title = "A Dashboard for Planet Earth"
 draft = false
 weight = 0
