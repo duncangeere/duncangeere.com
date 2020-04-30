@@ -4,7 +4,7 @@ draft = false
 image = "/img/portfolio/blog.png"
 date = "2020-01-01"
 title = "Bar & Line"
-weight = 1
+weight = 2
 +++
 
 I write dailyish posts on my workblog, showcasing creative inspiration and in-progress projects.
