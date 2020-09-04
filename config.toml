@@ -40,6 +40,10 @@ googleAnalytics = "UA-59049444-1"
   home = true
 
   [[params.navlinks]]
+  name = "Climate Portfolio"
+  url = "http://klimat.design/"
+
+  [[params.navlinks]]
   name = "About"
   url = "/about/"
 
