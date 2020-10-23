@@ -1,4 +1,4 @@
-baseurl = "https://www.duncangeere.com"
+baseurl = "https://old.duncangeere.com"
 title = "Duncan Geere"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -38,10 +38,6 @@ googleAnalytics = "UA-59049444-1"
   name = "Recent Work"
   url = "/portfolio/"
   home = true
-
-  [[params.navlinks]]
-  name = "Climate Portfolio"
-  url = "http://klimat.design/"
 
   [[params.navlinks]]
   name = "About"
